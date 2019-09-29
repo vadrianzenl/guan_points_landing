@@ -20,7 +20,7 @@ const Footer = () => {
                 <li className="media">
                   <i className="fas fa-square" />
                   <div className="media-body">
-                    Our business partners{' '}
+                    Nuestros asociados{' '}
                     <a className="turquoise" href="#your-link">
                       startupguide.com
                     </a>

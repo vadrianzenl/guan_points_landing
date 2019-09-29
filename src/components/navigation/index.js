@@ -6,7 +6,7 @@ const Navigation = () => {
     <nav className="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
 
       <Link href="/">
-        <a className="navbar-brand logo-image"><img src="/static/images/logo.svg" alt="alternative" /></a>
+        <a className="navbar-brand logo-image"><img src="/static/images/logo.png" alt="alternative" /></a>
       </Link>
 
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
