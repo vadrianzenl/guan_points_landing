@@ -17,7 +17,7 @@ const BusinessGrowth = () => {
             <div className="card col-lg-4">
               <img
                 className="card-image"
-                src="/static/images/services-icon-1.svg"
+                src="/static/images/services-icon-1.png"
                 alt="alternative"
               />
               <div className="card-body">
@@ -30,7 +30,7 @@ const BusinessGrowth = () => {
             <div className="card col-lg-4">
               <img
                 className="card-image"
-                src="/static/images/services-icon-2.svg"
+                src="/static/images/services-icon-2.png"
                 alt="alternative"
               />
               <div className="card-body">
@@ -44,7 +44,7 @@ const BusinessGrowth = () => {
             <div className="card col-lg-4">
               <img
                 className="card-image"
-                src="/static/images/services-icon-3.svg"
+                src="/static/images/services-icon-3.png"
                 alt="alternative"
               />
               <div className="card-body">

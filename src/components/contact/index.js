@@ -31,8 +31,31 @@ const Contact = () => {
           </div>
         </div>
         <div className="row">
-          <div className="col-lg-6" />
-          <div className="col-lg-6" />
+          <div className="col-lg-12">
+            <form id="contactForm" data-toggle="validator" data-focus="false">
+              <div className="form-group">
+                <input type="text" className="form-control-input" id="cname" required />
+                  <label className="label-control" htmlFor="cname">Name</label>
+                  <div className="help-block with-errors"/>
+              </div>
+              <div className="form-group">
+                <input type="email" className="form-control-input" id="cemail" required />
+                  <label className="label-control" htmlFor="cemail">Email</label>
+                  <div className="help-block with-errors"/>
+              </div>
+              <div className="form-group">
+                <textarea className="form-control-textarea" id="cmessage" required/>
+                <label className="label-control" htmlFor="cmessage">Your message</label>
+                <div className="help-block with-errors"/>
+              </div>
+              <div className="form-group">
+                <button type="submit" className="form-control-submit-button">SUBMIT MESSAGE</button>
+              </div>
+              <div className="form-message">
+                <div id="cmsgSubmit" className="h3 text-center hidden"/>
+              </div>
+            </form>
+          </div>
         </div>
       </div>
     </div>
