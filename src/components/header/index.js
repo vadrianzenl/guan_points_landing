@@ -8,27 +8,19 @@ const Header = () => {
           <div className="row">
             <div className="col-lg-6">
               <div className="text-container">
-                <h1><span className="turquoise">StartUp Landing</span> Page Template Free</h1>
-                <p className="p-large">Use Evolo free landing page template to promote your business startup and
-                  generate leads for the offered services</p>
-                <a className="btn-solid-lg page-scroll" href="#services">DISCOVER</a>
+                <h1><span className="turquoise">Guan</span> <br />Gana en Guan</h1>
+                <p className="p-large">Guan, es una plataforma de lealtad y marketing digital que conecta tu negocio con tus clientes de una manera deivertida</p>
+                <a className="btn-solid-lg page-scroll" href="#services">DESCUBRIR</a>
               </div>
-              {/* end of text-container */}
             </div>
-            {/* end of col */}
             <div className="col-lg-6">
               <div className="image-container">
                 <img className="img-fluid" src="/static/images/header-teamwork.svg" alt="alternative" />
               </div>
-              {/* end of image-container */}
             </div>
-            {/* end of col */}
           </div>
-          {/* end of row */}
         </div>
-        {/* end of container */}
       </div>
-      {/* end of header-content */}
     </header>
   );
 };
