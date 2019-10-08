@@ -2,19 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b065eed4-7623-468f-8e8e-fb3ec8db7e09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/amplify/backend/hosting/S3AndCloudFront/parameters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/hosting/S3AndCloudFront/template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/brXzPAjKroozToZT-Bnyu/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/brXzPAjKroozToZT-Bnyu/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/brXzPAjKroozToZT-Bnyu/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/commons.737a0edb96b553643dca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/commons.fe9a4443b6f726dbf81c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/runtime/main-ec1be9c640a81bd95307.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/runtime/webpack-035ac2b14bde147cb4a8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/zDpqdeDbs8nf45pCkXC7z/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/zDpqdeDbs8nf45pCkXC7z/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/_next/static/zDpqdeDbs8nf45pCkXC7z/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/css/fontawesome-all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/favicon-mask.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/contact-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/details-1-office-worker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/details-2-office-team-work.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/details-lightbox-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/details-lightbox-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/down-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/ex-header-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/header-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/header-teamwork.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/services-icon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/services-icon-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/services-icon-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/statement-icon-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/team-member-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/team-member-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/team-member-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/team-member-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/testimonial-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/testimonial-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/testimonial-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/testimonials-2-men-talking.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/testimonials-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/up-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/images/video-frame.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/js/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/js/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/js/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/js/validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -71,65 +149,21 @@
       </map>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/components/preloader/index.js" />
-        <option value="$PROJECT_DIR$/src/components/layout/index.js" />
-        <option value="$PROJECT_DIR$/pages/_document.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/.prettierrc" />
-        <option value="$PROJECT_DIR$/pages/_app.js" />
-        <option value="$PROJECT_DIR$/pages/index.js" />
-        <option value="$PROJECT_DIR$/src/components/header/index.js" />
-        <option value="$PROJECT_DIR$/src/components/testimonials/index.js" />
-        <option value="$PROJECT_DIR$/src/components/copyright/index.js" />
-        <option value="$PROJECT_DIR$/src/components/navigation/index.js" />
-        <option value="$PROJECT_DIR$/src/components/footer/index.js" />
-        <option value="$PROJECT_DIR$/src/components/video/index.js" />
-        <option value="$PROJECT_DIR$/src/components/businessGrowth/index.js" />
-        <option value="$PROJECT_DIR$/.eslintrc.js" />
-        <option value="$PROJECT_DIR$/src/components/contact/index.js" />
-        <option value="$PROJECT_DIR$/static/css/styles.css" />
-      </list>
-    </option>
-  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="guan_points_landing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guan_points_landing" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1RvMfDyxhQYBEGFBWe1UJum8CSt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/eslint-config-prettier" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -182,6 +216,8 @@
       <workItem from="1569735974107" duration="6073000" />
       <workItem from="1569769223154" duration="630000" />
       <workItem from="1569769867210" duration="27779000" />
+      <workItem from="1570543218739" duration="2728000" />
+      <workItem from="1570547187122" duration="2783000" />
     </task>
     <task id="LOCAL-00001" summary="[feat] Add prettier and eslint files">
       <created>1569582287655</created>
@@ -228,36 +264,24 @@
     <option name="localTasksCounter" value="7" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50858000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17708333" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32991454" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24102564" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21367522" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="[feat] Add prettier and eslint files" />
     <MESSAGE value="[feat] Add initial structure" />
     <MESSAGE value="[feat] Add initial component to Landing page" />
@@ -265,168 +289,5 @@
     <MESSAGE value="[feat] Change colors in landing page" />
     <MESSAGE value="[feat] Change colors contact form" />
     <option name="LAST_COMMIT_MESSAGE" value="[feat] Change colors contact form" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/components/nav.js" />
-    <entry file="file://$PROJECT_DIR$/next.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/head.js" />
-    <entry file="file://$PROJECT_DIR$/src/components/layout/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/fontsgoogle.css" />
-    <entry file="file://$PROJECT_DIR$/.prettierrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/_app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/_document.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="26" column="73" lean-forward="true" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/testimonials/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/navigation/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/fontawesome-all.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/magnific-popup.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/swiper.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/header/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/copyright/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/footer/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="23" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/video/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/businessGrowth/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/contact/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/preloader/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="625" column="42" lean-forward="true" selection-start-line="625" selection-start-column="42" selection-end-line="626" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
