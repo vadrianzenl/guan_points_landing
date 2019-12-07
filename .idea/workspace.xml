@@ -2,91 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b065eed4-7623-468f-8e8e-fb3ec8db7e09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/amplify/backend/hosting/S3AndCloudFront/parameters.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/amplify/backend/hosting/S3AndCloudFront/template.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/_next/static/brXzPAjKroozToZT-Bnyu/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/_next/static/brXzPAjKroozToZT-Bnyu/pages/_error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/_next/static/brXzPAjKroozToZT-Bnyu/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/commons.737a0edb96b553643dca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/_next/static/chunks/commons.fe9a4443b6f726dbf81c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/_next/static/runtime/main-ec1be9c640a81bd95307.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/_next/static/runtime/webpack-035ac2b14bde147cb4a8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/_next/static/zDpqdeDbs8nf45pCkXC7z/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/_next/static/zDpqdeDbs8nf45pCkXC7z/pages/_error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/_next/static/zDpqdeDbs8nf45pCkXC7z/pages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/css/fontawesome-all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/css/swiper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/favicon-mask.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/contact-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/customer-logo-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/details-1-office-worker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/details-2-office-team-work.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/details-lightbox-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/details-lightbox-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/down-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/email.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/ex-header-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/header-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/header-teamwork.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/services-icon-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/services-icon-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/services-icon-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/statement-icon-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/team-member-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/team-member-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/team-member-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/team-member-4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/testimonial-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/testimonial-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/testimonial-3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/testimonials-2-men-talking.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/testimonials-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/up-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/images/video-frame.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/js/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/js/jquery.magnific-popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/js/swiper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/js/validator.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/static/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -218,6 +136,7 @@
       <workItem from="1569769867210" duration="27779000" />
       <workItem from="1570543218739" duration="2728000" />
       <workItem from="1570547187122" duration="2783000" />
+      <workItem from="1575737618931" duration="276000" />
     </task>
     <task id="LOCAL-00001" summary="[feat] Add prettier and eslint files">
       <created>1569582287655</created>
